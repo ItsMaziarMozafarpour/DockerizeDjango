@@ -12,7 +12,6 @@ A dockerized djangp porject
 ## Docker Compose
 ### Windows and macOs
 Docker Compose is included in Docker Desktop for Windows and macOS.
-[This is test](./README.md#Prerequisite)
 ### Linux
 1.Run this command to download the current stable release of Docker Compose:
 ```
