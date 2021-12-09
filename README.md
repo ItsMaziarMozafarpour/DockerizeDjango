@@ -21,13 +21,12 @@ sudo curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-
 ```
 sudo chmod +x /usr/local/bin/docker-compose
 ```
-# Run Project
+# Run App
 ```
-cd /path/to/project/file
-docker-compose up --build -d 
-# --build is first run
+cd /path/to/app/file
+docker-compose up --build -d #--build is first run
 ```
-# Stop Project
+# Stop App
 ```
 docker-compose down
 ```
