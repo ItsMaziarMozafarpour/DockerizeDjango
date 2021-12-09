@@ -24,7 +24,7 @@ sudo chmod +x /usr/local/bin/docker-compose
 # Run App
 ```
 cd /path/to/app/file
-docker-compose up --build -d #--build is first run
+docker-compose up -d
 ```
 # Stop App
 ```
